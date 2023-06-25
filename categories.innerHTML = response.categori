@@ -1,0 +1,7 @@
+categories.innerHTML = response.categories
+created_at.innerHTML = response.created_at
+icon_url.innerHTML = response.icon_url
+id.innerHTML = response.id
+updated_at.innerHTML = response.updated_at
+url.innerHTML = response.url
+value.innerHTML = response.value
